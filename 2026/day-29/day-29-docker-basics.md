@@ -21,7 +21,7 @@ Draw or describe the Docker architecture in your own words.
 4. List all containers (including stopped ones)
 5. Stop and remove a container
 
-![Images](image/task3.png) 
+![Images](Image/task3.png) 
 
 ### Task 4: Explore
 1. Run a container in **detached mode** — what's different?
@@ -30,7 +30,7 @@ Draw or describe the Docker architecture in your own words.
 4. Check **logs** of a running container
 5. Run a command **inside** a running container
 
-![Images](image/task4.png)
+![Images](Image/task4.png)
 
 
 ## Hints
@@ -42,7 +42,7 @@ Draw or describe the Docker architecture in your own words.
 - Logs: `docker logs`
 - Exec into container: `docker exec`
 
-![Images](image/task5a.png)
+![Images](Image/task5a.png)
 
 
-![Images](image/task5b.png)
+![Images](Image/task5b.png)
