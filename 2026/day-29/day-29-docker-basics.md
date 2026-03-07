@@ -12,7 +12,7 @@ Draw or describe the Docker architecture in your own words.
 3. Run the `hello-world` container
 4. Read the output carefully — it explains what just happened
 
-![Images](image/task2.png)
+![Images](Image/task2.png)
  
  ### Task 3: Run Real Containers
 1. Run an **Nginx** container and access it in your browser
